@@ -1,0 +1,5 @@
+<resources>
+    <string name="saludo">Bienvenido</string>
+    <string name="boton_entrar">Entrar</string>
+    <string name="app_name" translatable="false">Mi Hola Mundo</string>
+</resources>
